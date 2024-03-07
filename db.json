@@ -1,0 +1,27 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Ventilador",
+      "preco": "50.00",
+      "imagem": "assets/images/produtos/fogao_embutido.webp"
+    },
+    {
+      "id": "2",
+      "produto": "Furadeira",
+      "preco": "150.50",
+      "imagem": "assets/images/produtos/fogao_embutido.webp"
+    },
+    {
+      "id": "3",
+      "produto": "Geladeira",
+      "preco": "2500.00",
+      "imagem": "assets/images/produtos/fogao_embutido.webp"
+    },
+    {
+      "produto": "Mesa com 4 cadeiras",
+      "preco": "2000.00",
+      "id": "5"
+    }
+  ]
+}
