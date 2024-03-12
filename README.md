@@ -14,3 +14,7 @@ npm install
 npx json-server db.json
 
 ```
+## Resultado
+
+https://github.com/ivanafeitosa/json-server/assets/105730445/aa6baa7b-cc98-4d20-bf91-09b6cecddb2d
+
