@@ -5,3 +5,12 @@ Este repositório contém uma página web responsiva que é um sistema de cadast
 * HTML semântico;
 * Uso de bibliotecas adicionais (Bootstrap, Fonts, Icons, etc);
 * Consumir uma API fake criada com json-server por meio do método fetch;
+
+## Para executar a aplicação
+
+* Dentro da pasta, abra o terminal:
+```
+npm install
+npx json-server db.json
+
+```
